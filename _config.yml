@@ -6,14 +6,13 @@ title                    : "苟光磊 (Guanglei Gou) - 个人主页"
 title_separator          : "-"
 name                     : &name "Guanglei Gou"
 description              : &description "Guanglei Gou's academic portfolio"
-url                      : "https://fomenGgl.github.io" # 确保这是你的 GitHub 网址
+url                      : "https://fomenGgl.github.io"
 baseurl                  : "" 
 repository               : "fomenGgl/fomenGgl.github.io"
 
 # 站点作者设置 - 控制左侧边栏显示的内容
 author:
-  # 个人信息
-  avatar           : "me.png" # 记得在 images 文件夹放入名为 profile.png 的照片
+  avatar           : "me.png"
   name             : "苟光磊 (Guanglei Gou)"
   pronouns         : 
   bio              : "西南交通大学博士，2002年进入重庆理工大学。"
@@ -21,7 +20,6 @@ author:
   employer         : "重庆理工大学计算机科学与工程学院"
   uri              : 
   email            : "ggl@cqut.edu.cn" 
-  # 学术链接 (已根据要求留空)
   academia         : 
   arxiv            : 
   googlescholar    : 
@@ -34,14 +32,12 @@ author:
   researchgate     : 
   scopus           : 
   zotero           : 
-  # 代码仓库 (已根据要求留空)
   bitbucket        : 
   codepen          : 
   dribbble         : 
   github           : 
   kaggle           : 
   stackoverflow    : 
-  # 社交媒体 (已根据要求留空)
   weibo            : 
   zhihu            : 
 
@@ -71,7 +67,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# 需要 Jekyll 处理的额外目录（关键：让 _pages 生效）
+# 需要 Jekyll 处理的额外目录（关键修复）
 include:
   - .htaccess
   - _pages
@@ -90,9 +86,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  pages:
-    output: true
-    permalink: /:path/
 
 # 默认页面配置
 defaults:
