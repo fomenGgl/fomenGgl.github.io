@@ -13,7 +13,7 @@ repository               : "fomenGgl/fomenGgl.github.io"
 # 站点作者设置 - 控制左侧边栏显示的内容
 author:
   # 个人信息
-  avatar           : "profile.png" # 记得在 images 文件夹放入名为 profile.png 的照片
+  avatar           : "me.png" # 记得在 images 文件夹放入名为 profile.png 的照片
   name             : "苟光磊 (Guanglei Gou)"
   pronouns         : 
   bio              : "西南交通大学博士，2002年进入重庆理工大学。"
