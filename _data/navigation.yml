@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research"
+  - title: "研究方向"
     url: /#research-interests
     
-  - title: "News"
+  - title: "团队动态"
     url: /#news
     
-  - title: "Publications"
+  - title: "发表刊物"
     url: /#publications
     
-  - title: "Students"
+  - title: "指导学生"
     url: /#students
