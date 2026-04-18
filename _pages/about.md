@@ -20,17 +20,22 @@ redirect_from:
 ## 🔥 团队动态
 {: #news}
 
+* **2022.06:** 🍽️🍽️ 19级毕业生——谢师宴😄 😄 😄 😄 😄
+  <div align="center">
+    <img src="/images/19_x.jpeg" alt="19级谢师宴" width="600">
+  </div>
 
 * **2022.06:** 🎉🎉 祝贺 **杨雨**、**朱东旭** 同学成功获得硕士学位，硕士顺利毕业！
   <div align="center">
     <img src="/images/19.jpeg" alt="杨雨朱东旭毕业照" width="600">
+    <p><small><em>杨雨、朱东旭 · 硕士毕业合影</em></small></p>
   </div>
 
 * **2021.06:** 🎉🎉 祝贺 **刘文星** 同学成功通过硕士学位论文答辩！
 
   <div align="center">
     <img src="/images/21_WenxingLiu.jpeg" alt="刘文星硕士论文答辩" width="600">
-    <p><em>刘文星 · 硕士毕业合影</em></p>
+    <p><small><em>刘文星 · 硕士毕业合影</em></small></p>
   </div>
 
 
