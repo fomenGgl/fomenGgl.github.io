@@ -22,25 +22,25 @@ redirect_from:
 
 * **2025.12:** 🍽️🍽️ 24级新生入学宴——欢迎2024级硕士研究生阳玲、程洁、肖凯佟三位同学加入佛门
   <div align="center">
-    <img src="/images/24.jpeg" alt="24级" width="600">
+    <img src="/images/24.JPG" alt="24级" width="600">
   </div>
 
 
 * **2025.06:** 🍽️🍽️ 22级毕业生谢师宴
   <div align="center">
-    <img src="/images/22_x.jpeg" alt="22级谢师宴" width="600">
+    <img src="/images/22_x.jpg" alt="22级谢师宴" width="600">
   </div>
 
 * **2025.06:** 🎉🎉 祝贺 **张洪铭**、**文浪**、**章韬**、**白瑞峰**、**缪宛谕**  五位同学顺利硕士顺利毕业！
   <div align="center">
-    <img src="/images/22.jpeg" alt="张洪铭文浪章韬白瑞峰白瑞峰缪宛谕" width="600">
+    <img src="/images/22.PNG" alt="张洪铭文浪章韬白瑞峰白瑞峰缪宛谕" width="600">
     <p><small><em>张洪铭、文浪、章韬、白瑞峰、缪宛谕 · 硕士毕业合影</em></small></p>
   </div>
 
 
 * **2024.06:** 🍽️🍽️ 21级毕业生谢师宴
   <div align="center">
-    <img src="/images/21_x.jpeg" alt="21级谢师宴" width="600">
+    <img src="/images/21_x.JPG" alt="21级谢师宴" width="600">
   </div>
 
 * **2024.06:** 🎉🎉 祝贺 **朱东华**、**李小菲**、**韩岩奇** 同学成功获得硕士学位，硕士顺利毕业！
@@ -51,7 +51,7 @@ redirect_from:
 
 * **2023.12:** 🍽️🍽️ 23级新生入学宴——欢迎2023级硕士研究生贾朋昊、周琳杰、高雄加入团队
   <div align="center">
-    <img src="/images/23.jpeg" alt="23级" width="600">
+    <img src="/images/23.JPG" alt="23级" width="600">
   </div>
 
 * **2023.06:** 🎉🎉 祝贺 **吕艳娜**、**张耀洪** 同学成功获得硕士学位，硕士顺利毕业！
