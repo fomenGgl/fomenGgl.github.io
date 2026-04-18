@@ -25,7 +25,7 @@ redirect_from:
 * **2021.06:** 🎉🎉 祝贺 **刘文星** 同学成功通过硕士学位论文答辩！
 
   <div align="center">
-    <img src="/images/21_WenxingLiu.jpeg" alt="刘文星硕士论文答辩" width="400">
+    <img src="/images/21_WenxingLiu.jpeg" alt="刘文星硕士论文答辩" width="600">
     <p><em>刘文星 · 硕士毕业合影</em></p>
   </div>
 
