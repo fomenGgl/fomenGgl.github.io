@@ -8,21 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-我目前是重庆理工大学计算机科学与工程学院的老师。在此之前，我于西南交通大学获得博士学位。自 2002 年起，我正式加入重庆理工大学。
-
-我的研究重点是利用深度学习技术解决临床医学影像中的挑战，特别是小样本学习（Few-Shot Learning）在医学图像分割中的应用。
+我目前是重庆理工大学计算机科学与工程学院的一名讲师，在智能信息处理、机器学习、深度学习等领域开展了广泛的研究。2002年获得西安工业大学计算机科学与技术专业学士学位后入职CQUT，2008年获得重庆邮电大学计算机应用专业硕士学位，2017年获得西南交通大学计算机应用专业博士学位。我主持了多项创新项目。在国内外重要刊物发表论文30余篇；授权发明专利3项；出版专著1部，教材2部。  
 
 ## 💻 Research Interests
 
-* **医学图像分割 (Medical Image Segmentation)**：开发针对 CT、MRI、超声等模态的高精度分割算法。
-* **小样本学习 (Few-Shot Learning)**：研究在极少标注数据下的模型泛化能力与原型激活校准（PAC）。
-* **跨域泛化 (Cross-domain Generalization)**：提取域不变特征，提升模型在不同医院、不同设备数据上的稳健性。
-
-## 📚 Teaching
-
-* **计算机视觉 (Computer Vision)**
+* **计算机视觉 (Computer Vision)**：聚焦细粒度图像分析、医学图像分析。
+* **小样本学习 (Few-shot Learning)**：小样本细粒度图像分类(Few-shot Fine-grained Image Classification),小样本医学图像分割(Few-shot Medical Image Segmentation)。
 * **深度学习 (Deep Learning)**
-* **机器学习 (Machine Learning)**
 
 ## 🔥 News
 
