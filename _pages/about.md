@@ -20,6 +20,12 @@ redirect_from:
 ## 🔥 团队动态
 {: #news}
 
+* **2025.12:** 👏👏 恭喜**贾朋昊**同学获得2025年国家奖学金！
+  <div align="center">
+    <img src="/images/jph_gj.jpg" alt="国家奖学金" width="400">
+  </div>
+
+
 * **2025.12:** 👏👏 恭喜**阳玲**同学获得“华为杯”第二十二届中国研究生数学建模竞赛三等奖！
   <div align="center">
     <img src="/images/yl_jm.png" alt="数学建模竞赛" width="400">
