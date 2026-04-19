@@ -37,6 +37,10 @@ redirect_from:
     <p><small><em>张洪铭、文浪、章韬、白瑞峰、缪宛谕 · 硕士毕业合影</em></small></p>
   </div>
 
+* **2025.04:** 🎉🎉 恭喜团队研究生**贾朋昊**一篇论文被Signal Processing (SCI,中科院二区, CCF-C)录用录用！
+
+* **2025.03:** 🎉🎉 恭喜团队研究生**贾朋昊**一篇论文被Pattern Recognition Letters (SCI,中科院三区, CCF-C)录用录用！
+
 * **2025.01:** 🍽️🍽️ 新生宴——欢迎2024级同学尹华兵、赵泸慧加入佛门团队 👏 👏 👏 
   <div align="center">
     <img src="/images/huabing.jpeg" alt="21级谢师宴" width="600">
