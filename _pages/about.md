@@ -20,6 +20,11 @@ redirect_from:
 ## 🔥 团队动态
 {: #news}
 
+* **2025.12:** 👏👏 恭喜**阳玲**同学获得“华为杯”第二十二届中国研究生数学建模竞赛三等奖！
+  <div align="center">
+    <img src="/images/yl_jm.png" alt="数学建模竞赛" width="400">
+  </div>
+
 * **2025.12:** 🍽️🍽️ 25级新生入学宴——欢迎2024级硕士研究生阳玲、程洁、肖凯佟三位同学加入佛门  👏 👏 👏 
   <div align="center">
     <img src="/images/24.JPG" alt="24级" width="600">
@@ -44,6 +49,11 @@ redirect_from:
 * **2025.01:** 🍽️🍽️ 新生宴——欢迎2024级同学尹华兵、赵泸慧加入佛门团队 👏 👏 👏 
   <div align="center">
     <img src="/images/huabing.jpeg" alt="21级谢师宴" width="600">
+  </div>
+
+* **2024.12:** 👏👏 恭喜**贾朋昊**同学和**尹华兵**同学获得“华为杯”第二十一届中国研究生数学建模竞赛二等奖！
+  <div align="center">
+    <img src="/images/jph_jm.png" alt="数学建模竞赛" width="400">
   </div>
 
 * **2024.06:** 🍽️🍽️ 21级毕业生谢师宴
