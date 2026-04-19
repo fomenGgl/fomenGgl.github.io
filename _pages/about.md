@@ -127,10 +127,6 @@ redirect_from:
 * 刘文星,苟光磊.基于递归金字塔的多任务轻量化图像超分辨率算法[J].（CCF推荐中文核心期刊）
 
 
-
-## 👥 指导学生
-{: #students}
-
 ## 👥 指导学生
 {: #students}
 
@@ -146,15 +142,51 @@ redirect_from:
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">2025</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">曲一</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">程洁</td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">2028</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">—</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2018</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">刘文星</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2021</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">武汉大学攻读博士学位</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2025</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">阳玲</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2028</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2025</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">肖凯佟</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2028</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2024</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">尹华兵</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2027</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2024</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">赵泸慧</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2027</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">贾朋昊</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">重庆大学攻读博士学位</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">周琳杰</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">四川达州电信公司</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">高雄</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">重庆某科技公司技术岗</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">2018</td>
@@ -234,37 +266,6 @@ redirect_from:
       <td style="padding: 10px; border-bottom: 1px solid #eee;">2025</td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">重庆某科技公司</td>
     </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">贾朋昊</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">重庆大学攻读博士学位</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">周琳杰</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">四川达州电信公司</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2023</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">高雄</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2026</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">重庆某科技公司技术岗</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2024</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">尹华兵</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2027</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2024</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">赵泸慧</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">2027</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">---</td>
-    </tr>
-    
   </tbody>
 </table>
 
