@@ -59,7 +59,7 @@ redirect_from:
 
 * **2024.12:** 👏👏 恭喜**贾朋昊**同学和**尹华兵**同学获得“华为杯”第二十一届中国研究生数学建模竞赛二等奖！
   <div align="center">
-    <img src="/images/jph_jm.png" alt="数学建模竞赛" width="400">
+    <img src="/images/jph_jm.png" alt="两人数学建模竞赛" width="500">
   </div>
 
 * **2024.06:** 🍽️🍽️ 21级毕业生谢师宴
