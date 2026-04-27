@@ -127,7 +127,7 @@ redirect_from:
 * 刘文星,苟光磊.基于递归金字塔的多任务轻量化图像超分辨率算法[J].（CCF推荐中文核心期刊）
 
 
-## 👥 指导学生
+## 👥 团队学生
 {: #students}
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
