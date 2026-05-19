@@ -24,7 +24,7 @@ redirect_from:
 
 * **2026.05:** 🎉🎉 祝贺课题组**贾朋昊**同学成功获得**重庆大学**博士研究生录取资格！
   <div align="center">
-    <img src="/images/jph_luqu.jpg" alt="贾朋昊博士录取" width="400">
+    <img src="/images/jph_luqu.jpg" alt="贾朋昊博士录取" width="800">
   </div>
 
 
