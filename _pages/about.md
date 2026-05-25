@@ -20,7 +20,11 @@ redirect_from:
 ## 🔥 团队动态
 {: #news}
 
-
+* **2026.05:** 🎉🎉 祝贺 **贾朋昊**、**周琳杰**、**高雄** 三位同学顺利硕士顺利毕业！
+  <div align="center">
+    <img src="/images/23biye.jpg" alt="jphzljgx" width="600">
+    <p><small><em>贾朋昊、周琳杰、高雄 · 硕士毕业合影</em></small></p>
+  </div>
 
 * **2026.05:** 🎉🎉 祝贺课题组**贾朋昊**同学成功获得**重庆大学**博士研究生录取资格！
   <div align="center">
