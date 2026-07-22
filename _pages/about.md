@@ -23,6 +23,13 @@ redirect_from:
 * **2026.06:** 🎉🎉 恭喜团队研究生**赵泸慧**同学论文被Pattern Recognition Letters (SCI,中科院三区, CCF-C)录用！
 
 
+
+* **2026.06:** 🍽️🍽️ 23级毕业生谢师宴——祝23级三位毕业生前程似锦！轻舟已过万重山~
+  <div align="center">
+    <img src="/images/23_x.jpg" alt="23级谢师宴" width="600">
+  </div>
+
+
 * **2026.05:** 🎉🎉 祝贺 **贾朋昊**、**周琳杰**、**高雄** 三位同学顺利硕士顺利毕业！
   <div align="center">
     <img src="/images/23biye.jpg" alt="jphzljgx" width="600">
