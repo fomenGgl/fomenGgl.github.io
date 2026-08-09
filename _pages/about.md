@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-我目前是重庆理工大学计算机科学与工程学院的一名讲师，在智能信息处理、机器学习、深度学习等领域开展了广泛的研究。2002年获得西安工业大学计算机科学与技术专业学士学位后入职 CQUT，2008年获得重庆邮电大学计算机应用专业硕士学位，2017年获得西南交通大学计算机应用专业博士学位。我主持了多项创新项目。在国内外重要刊物发表论文 30 余篇；授权发明专利 3 项；出版专著 1 部，教材 2 部。
+我目前是重庆理工大学计算机科学与工程学院的一名讲师，在智能信息处理、机器学习、深度学习等领域开展了广泛的研究。2002年获得西安工业大学计算机科学与技术专业学士学位后入职 CQUT，2008年获得重庆邮电大学计算机应用专业硕士学位，2017年获得西南交通大学计算机应用专业博士学位，2016年到波兰人文科技学院留学，2017年至韩国KAIST访学。我主持了多项创新项目。在国内外重要刊物发表论文 40 余篇；授权发明专利 3 项；出版专著 1 部，教材 2 部。
 
 ## 💻 研究方向
 {: #research-interests}
@@ -129,8 +129,9 @@ redirect_from:
 ## 📄 发表刊物
 {: #publications}
 
-* [SP] Jia P, Gou G*, Cheng Y. MAGNET: Multi-level feature guidance network for few-shot fine-grained image classification[J]. Signal Processing, 2025, 235: 110031. （SCI 中科院二区）
-* [PRL] Jia P, Gou G*, Cheng Y, et al. Bi-focus cosine complement network for few-shot fine-grained image classification[J]. Pattern Recognition Letters, 2025, 191: 44-50. （SCI 中科院三区）
+* [PRL] Zhao L, Gou G, Jia P. Geometry-aware and Multi-semantic Prompt Network for Few-shot Fine-grained Image Classification[J]. Pattern Recognition Letters, 2026, 207: 123-129 （SCI 中科院三区） <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865526002163" target="_blank">[Paper]</a>
+* [SP] Jia P, Gou G*, Cheng Y. MAGNET: Multi-level feature guidance network for few-shot fine-grained image classification[J]. Signal Processing, 2025, 235: 110031. （SCI 中科院二区）<a href="htps://www.sciencedirect.com/science/article/abs/pii/S0165168425001458" target="_blank">[Paper]</a>
+* [PRL] Jia P, Gou G*, Cheng Y, et al. Bi-focus cosine complement network for few-shot fine-grained image classification[J]. Pattern Recognition Letters, 2025, 191: 44-50. （SCI 中科院三区）<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865525000868" target="_blank">[Paper]</a>
 * 张洪铭,苟光磊,章韬.基于长距离依赖感知的自适应车道线检测方法[J]. （CCF推荐中文核心期刊）
 * 周琳杰,苟光磊,高雄,等.多级决策特征增强的小样本细粒度图像分类方法[J/OL].（CCF推荐中文核心期刊）
 * 高雄,苟光磊,周琳杰,等.轴向注意力与尺度感知的小样本细粒度图像分类[J/OL].（CCF推荐中文核心期刊）
