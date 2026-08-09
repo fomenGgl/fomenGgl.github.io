@@ -130,7 +130,7 @@ redirect_from:
 {: #publications}
 
 * [PRL] Zhao L, Gou G, Jia P. Geometry-aware and Multi-semantic Prompt Network for Few-shot Fine-grained Image Classification[J]. Pattern Recognition Letters, 2026, 207: 123-129 （SCI 中科院三区） <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865526002163" target="_blank">[Paper]</a>
-* [SP] Jia P, Gou G*, Cheng Y. MAGNET: Multi-level feature guidance network for few-shot fine-grained image classification[J]. Signal Processing, 2025, 235: 110031. （SCI 中科院二区）<a href="htps://www.sciencedirect.com/science/article/abs/pii/S0165168425001458" target="_blank">[Paper]</a>
+* [SP] Jia P, Gou G*, Cheng Y. MAGNET: Multi-level feature guidance network for few-shot fine-grained image classification[J]. Signal Processing, 2025, 235: 110031. （SCI 中科院二区）<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425001458" target="_blank">[Paper]</a>
 * [PRL] Jia P, Gou G*, Cheng Y, et al. Bi-focus cosine complement network for few-shot fine-grained image classification[J]. Pattern Recognition Letters, 2025, 191: 44-50. （SCI 中科院三区）<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865525000868" target="_blank">[Paper]</a>
 * 张洪铭,苟光磊,章韬.基于长距离依赖感知的自适应车道线检测方法[J]. （CCF推荐中文核心期刊）
 * 周琳杰,苟光磊,高雄,等.多级决策特征增强的小样本细粒度图像分类方法[J/OL].（CCF推荐中文核心期刊）
