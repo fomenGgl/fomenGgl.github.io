@@ -297,7 +297,7 @@ redirect_from:
 
 
 
-## 👥 本科创新团队CFC毕业去向
+## 💼 本科创新团队CFC毕业去向
 {: #cfc}
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
