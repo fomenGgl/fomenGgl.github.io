@@ -297,6 +297,211 @@ redirect_from:
 
 
 
+## 👥 本科创新团队CFC毕业去向
+{: #cfc}
+
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">姓名</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">入学年级</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">目前工作单位</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">罗昭成</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2010</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">理想汽车（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">蒋开建</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2010</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">快手（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">李昴</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2011</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">美团（成都）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">郑婷婷</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2011</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">百度（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">杨力</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2011</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">百度（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">董一炜</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2012</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">阿里巴巴（杭州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">朱黎平</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2012</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">Entrepreneurship（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">陈耀璇</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">腾讯（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">刘齐均</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">DaoCloud（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">贾正权</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">字节跳动（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">袁旦</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">SHEIN（广州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">邓振鹏</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">西雾科技（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">田创宇</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">拼多多（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">王超然</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">ZOOM（杭州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">杜豪</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2013</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">赛里斯（重庆）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">李云航</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">字节跳动（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">杨心</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">新小科技（苏州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">曹云轩</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">快手（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">吴东亮</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">微软（西雅图）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">徐方正</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">阿里云（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">杨举圣</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2014</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">Bing Tech（Remote）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">王锐</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2015</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">百度（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">江坤和</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2015</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">字节跳动（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">陈斌</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2016</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">华人运通（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">谢锦涛</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2017</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">美图（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">何清疑</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2017</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">阿里云（杭州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">蒋云龙</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2018</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">腾讯（广州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">王辉宇</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2018</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">腾讯（广州）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">张瑛淇</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2019</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">腾讯（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">李海波</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2019</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">智汇云舟（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">孙天昊</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2020</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">百度（北京）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">曾奕然</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2020</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">胜算云（上海）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">赖倩倩</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2020</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">传音（重庆）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">张喻杰</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2021</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">创业（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">邢齐</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2022</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">腾讯（深圳）</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">冉亮</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2022</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">上科大</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">徐熠</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">2022</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">北交大</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
 <br>
 
 <p align="center">
